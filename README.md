@@ -14,6 +14,7 @@ used in help desk, desktop support, and junior sysadmin roles.
 - Windows Device Manager and Task Manager diagnostics
 - Display and monitor troubleshooting
 - BIOS and hardware-level isolation techniques
+- Windows Event Viewer analysis
 
 ---
 
